@@ -6,6 +6,7 @@
 
 ```shell
 git clone https://github.com/sunknudsen/fsevents-test
+cd fsevents-test
 npm install
 ```
 
