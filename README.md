@@ -10,4 +10,6 @@ cd fsevents-test
 npm install
 ```
 
-### Step 2: edit `watched/foo` and save file a few times in a row
+### Step 2: run `node index.js`
+
+### Step 3: edit `watched/foo` and save file a few times in a row
