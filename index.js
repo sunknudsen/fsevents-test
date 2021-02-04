@@ -8,5 +8,5 @@ setInterval(() => {
 }, 60000);
 setTimeout(() => {
   stop();
-  console.log('stoped watching');
+  console.log('stopped watching');
 }, 3600000);
